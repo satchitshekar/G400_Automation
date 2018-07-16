@@ -87,7 +87,7 @@ Public Class AutomateG400
 
             MainScrnName = Nothing
             Wrapper.HLL_ReadScreen(Wrapper.getPos(1, 31), 18, MainScrnName)
-            MainScrnName = Trim(Strings.Left(MainScrnName, 7))
+            MainScrnName = Trim(Strings.Left(MainScrnName, 18))
 
             MessageBox.Show(MainScrnName)
 

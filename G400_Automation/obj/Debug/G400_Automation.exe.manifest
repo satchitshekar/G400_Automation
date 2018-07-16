@@ -61,7 +61,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>xWF/2BPcjm+Ky0j4FEA29tqluLi36sWk9V+265f1plQ=</dsig:DigestValue>
+        <dsig:DigestValue>mJWrmMGAb89dSBhibRD5zzd1VTRaDRMxiMG9rVo8VJ4=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -134,13 +134,13 @@
       <dsig:DigestValue>j5XMowm9qYcyNWR87Ke1KpLLXBlaYAR38CaZywZFE9o=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Resources\Config.xlsx" size="14400">
+  <file name="Resources\Config.xlsx" size="14411">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>Jfroz39c5qaTMZdcTDezuh3I86HJuaPsjFKhWUfyyhM=</dsig:DigestValue>
+      <dsig:DigestValue>Zu9ByhYbYiyPrM8oXm7CN/Bg/odIkTiQA7888tZW5XE=</dsig:DigestValue>
     </hash>
   </file>
   <compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">
