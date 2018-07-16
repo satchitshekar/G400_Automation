@@ -31,7 +31,9 @@ Public Class AutomateG400
         Dim WindowTitle As String
 
         G400Process = Process.Start(G400SystemPath)
-        G400Process.WaitForExit()
+        G400Process.WaitForExit(5000)
+
+        MessageBox.Show("Process Exit")
 
         WindowTitle = G400Process.MainWindowTitle
 
@@ -45,8 +47,6 @@ Public Class AutomateG400
         AutoIt.AutoItX.ControlSetText("IBM i signon", "", "Edit2", G400_Username)
         AutoIt.AutoItX.ControlSetText("IBM i signon", "", "Edit3", G400_Password)
         AutoIt.AutoItX.ControlSend("IBM i signon", "", "Button1", "{ENTER}")
-
-        MessageBox.Show("Process Exit")
 
     End Function
 
