@@ -1,0 +1,56 @@
+﻿
+----------------------------- Exception Details on 13-07-2018 11:35:44 AM -----------------------------
+**************************************************************************************************************
+Error Class : Form1
+Error Method :MetroButton1_Click
+Error Message :System.Data.OleDb.OleDbException (0x80040E37): The Microsoft Access database engine could not find the object 'Sheet5$'. Make sure the object exists and that you spell its name and the path name correctly. If 'Sheet5$' is not a local object, check your network connection or contact the server administrator.
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   at System.Data.OleDb.OleDbCommand.ExecuteNonQuery()
+   at G400_Automation.Form1.MetroButton1_Click(Object sender, EventArgs e) in C:\Users\USER-L038\Desktop\Project\G400_Automation\G400_Automation\G400_Automation\Form1.vb:line 17
+*************************************************** END ******************************************************
+
+----------------------------- Exception Details on 13-07-2018 12:03:42 PM -----------------------------
+**************************************************************************************************************
+Error Class : Form1
+Error Method :MetroButton1_Click
+Error Message :System.Data.OleDb.OleDbException (0x80040E37): The Microsoft Access database engine could not find the object 'Sheet5$'. Make sure the object exists and that you spell its name and the path name correctly. If 'Sheet5$' is not a local object, check your network connection or contact the server administrator.
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   at System.Data.OleDb.OleDbCommand.ExecuteNonQuery()
+   at G400_Automation.MainClass.Main() in C:\Users\USER-L038\Desktop\Project\G400_Automation\G400_Automation\G400_Automation\MainClass.vb:line 15
+*************************************************** END ******************************************************
+
+----------------------------- Exception Details on 13-07-2018 12:04:33 PM -----------------------------
+**************************************************************************************************************
+Error Class : MainClass
+Error Method :Main
+Error Message :System.Data.OleDb.OleDbException (0x80040E37): The Microsoft Access database engine could not find the object 'Sheet5$'. Make sure the object exists and that you spell its name and the path name correctly. If 'Sheet5$' is not a local object, check your network connection or contact the server administrator.
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   at System.Data.OleDb.OleDbCommand.ExecuteNonQuery()
+   at G400_Automation.MainClass.Main() in C:\Users\USER-L038\Desktop\Project\G400_Automation\G400_Automation\G400_Automation\MainClass.vb:line 15
+*************************************************** END ******************************************************
+
+----------------------------- Exception Details on 13-07-2018 12:14:28 PM -----------------------------
+**************************************************************************************************************
+Error Class : MainClass
+Error Method :Main
+Error Message :System.Data.OleDb.OleDbException (0x80004005): 'Sheet5$' is not a valid name. Make sure that it does not include invalid characters or punctuation and that it is not too long.
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   at System.Data.OleDb.OleDbCommand.ExecuteNonQuery()
+   at G400_Automation.MainClass.Main() in C:\Users\USER-L038\Desktop\Project\G400_Automation\G400_Automation\G400_Automation\MainClass.vb:line 13
+*************************************************** END ******************************************************

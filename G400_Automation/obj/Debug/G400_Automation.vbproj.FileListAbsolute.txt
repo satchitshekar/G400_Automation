@@ -1,0 +1,14 @@
+C:\Users\USER-L038\Desktop\Project\G400_Automation\G400_Automation\G400_Automation\bin\Debug\G400_Automation.exe.config
+C:\Users\USER-L038\Desktop\Project\G400_Automation\G400_Automation\G400_Automation\bin\Debug\G400_Automation.exe
+C:\Users\USER-L038\Desktop\Project\G400_Automation\G400_Automation\G400_Automation\bin\Debug\G400_Automation.pdb
+C:\Users\USER-L038\Desktop\Project\G400_Automation\G400_Automation\G400_Automation\bin\Debug\G400_Automation.xml
+C:\Users\USER-L038\Desktop\Project\G400_Automation\G400_Automation\G400_Automation\obj\Debug\G400_Automation.vbprojResolveAssemblyReference.cache
+C:\Users\USER-L038\Desktop\Project\G400_Automation\G400_Automation\G400_Automation\obj\Debug\G400_Automation.Form1.resources
+C:\Users\USER-L038\Desktop\Project\G400_Automation\G400_Automation\G400_Automation\obj\Debug\G400_Automation.Resources.resources
+C:\Users\USER-L038\Desktop\Project\G400_Automation\G400_Automation\G400_Automation\obj\Debug\G400_Automation.vbproj.GenerateResource.Cache
+C:\Users\USER-L038\Desktop\Project\G400_Automation\G400_Automation\G400_Automation\obj\Debug\G400_Automation.exe
+C:\Users\USER-L038\Desktop\Project\G400_Automation\G400_Automation\G400_Automation\obj\Debug\G400_Automation.xml
+C:\Users\USER-L038\Desktop\Project\G400_Automation\G400_Automation\G400_Automation\obj\Debug\G400_Automation.pdb
+C:\Users\USER-L038\Desktop\Project\G400_Automation\G400_Automation\G400_Automation\bin\Debug\MetroFramework.Design.dll
+C:\Users\USER-L038\Desktop\Project\G400_Automation\G400_Automation\G400_Automation\bin\Debug\MetroFramework.dll
+C:\Users\USER-L038\Desktop\Project\G400_Automation\G400_Automation\G400_Automation\bin\Debug\MetroFramework.Fonts.dll
