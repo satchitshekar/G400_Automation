@@ -35,6 +35,7 @@ Public Class ExceptionLog
         logwrite.Dispose()
 
         MessageBox.Show("Tool Execution failed due to an error. For further details, please refer the Log file.", "Execution Failed", MessageBoxButtons.OK, MessageBoxIcon.Error)
+        Application.Exit()
 
     End Sub
 

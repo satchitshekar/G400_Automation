@@ -36,3 +36,4 @@ C:\Users\USER-L038\Desktop\Project\G400_Automation\G400_Automation_1\G400_Automa
 C:\Users\USER-L038\Desktop\Project\G400_Automation\G400_Automation_1\G400_Automation\bin\Debug\IBMISeries.dll
 C:\Users\USER-L038\Desktop\Project\G400_Automation\G400_Automation_1\G400_Automation\obj\Debug\Interop.AutoItX3Lib.dll
 C:\Users\USER-L038\Desktop\Project\G400_Automation\G400_Automation_1\G400_Automation\obj\Debug\G400_Automation.vbproj.ResolveComReference.cache
+C:\Users\USER-L038\Desktop\Project\G400_Automation\G400_Automation_1\G400_Automation\bin\Debug\Interop.AutoItX3Lib.dll
