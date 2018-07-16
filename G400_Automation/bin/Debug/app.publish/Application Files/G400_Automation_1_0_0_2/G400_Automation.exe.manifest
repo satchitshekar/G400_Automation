@@ -54,14 +54,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="G400_Automation.exe" size="36864">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="G400_Automation.exe" size="39424">
       <assemblyIdentity name="G400_Automation" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>RBYP1U7gA1KJYcqAYLT39t+Bu9Dtwghgo00kj8nlJv4=</dsig:DigestValue>
+        <dsig:DigestValue>S/OhcSqPujYwBedz1iEz5ZGXOSWKWp0hJVThxZX5PbI=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

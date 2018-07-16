@@ -22,5 +22,15 @@ G400_Automation
   resource lookups using this strongly typed resource class.
 </summary>
 </member>
+<member name="P:G400_Automation.My.Resources.Resources.Config">
+<summary>
+  Looks up a localized string similar to .
+</summary>
+</member>
+<member name="P:G400_Automation.My.Resources.Resources.Config1">
+<summary>
+  Looks up a localized resource of type System.Byte[].
+</summary>
+</member>
 </members>
 </doc>

@@ -34,4 +34,28 @@ Public Class Form1
 
     End Sub
 
+    Private Sub MetroButton3_Click(sender As Object, e As EventArgs) Handles MetroButton3.Click
+
+        OpenFileDialog1.Filter = "G400 System | *.ws"
+        OpenFileDialog1.FileName = ""
+        Dim result As DialogResult = OpenFileDialog1.ShowDialog()
+        Dim path As String = OpenFileDialog1.FileName
+
+        Try
+            If (result = DialogResult.OK) Then
+                MetroTextBox2.Text = path
+                G400SystemPath = path
+            End If
+
+        Catch ex As Exception
+            Dim eModel As ErrorModel = New ErrorModel
+            eModel.ClassName = "Form1"
+            eModel.MethodName = "MetroButton3_Click"
+            eModel.ExceptionMessage = ex.ToString
+
+            Dim expLog As ExceptionLog = New ExceptionLog
+            expLog.ExceptionLogTest(eModel)
+        End Try
+
+    End Sub
 End Class
